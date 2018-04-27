@@ -1,0 +1,151 @@
+Aquí tens alguns exemples (per copiar i enganxar)
+per posar a prova la CLASSE POLINOMIS!
+
+* (pots copiar i enganxar directament cada bloc i pressionar ENTER)
+
+- SUMA de POLINOMIS:
+
+  Prova #1
+
+    def A 2x^4 -1x^3 -3x^2 +0.5x^1 -8x^0
+    def B -5x^4 +7x^3 +3x^1 -10x^0
+    suma C A B
+    veure C
+
+      Sortida: -3x^4 +6x^3 -3x^2 +3.5x^1 -18x^0
+
+  Prova #2
+
+    def D -3x^2 +5x^1 -4x^0
+    def E 4x^3 -5x^2 +2x^1 +1x^0
+    suma F D E
+    veure F
+
+      Sortida: +4x^3 -8x^2 +7x^1 -3x^0
+
+  Prova #3
+
+    def G 4x^3 +5x^0
+    def H 1x^2 -2x^1
+    suma I G H
+    veure I
+
+      Sortida: +4x^3 +1x^2 -2x^1 +5x^0
+
+- RESTA de POLINOMIS:
+
+  Prova #1
+
+    def A 9x^4 -4x^3 -3x^2 +0.5x^1 -8x^0
+    def B 5x^4 +7x^3 +3x^1 -10x^0
+    resta C A B
+    veure C
+
+      Sortida: +4x^4 -11x^3 -3x^2 -2.5x^1 +2x^0
+
+  Prova #2
+
+    def D -3x^2 +5x^1 -4x^0
+    def E 4x^3 -5x^2 +2x^1 +1x^0
+    resta F D E
+    veure F
+
+      Sortida: -4x^3 +2x^2 +3x^1 -5x^0
+
+  Prova #3
+
+  def G 4x^3 +5x^0
+  def H 1x^2 -2x^1
+  resta I G H
+  veure I
+
+    Sortida: +4x^3 -1x^2 +2x^1 +5x^0
+
+- PRODUCTE de POLINOMIS:
+
+  Prova #1
+
+    def A 4x^3 -5x^2 +2x^1 +1x^0
+    def B 3x^1 -6x^0
+    prod C A B
+    veure C
+
+      Sortida: +12x^4 -39x^3 +36x^2 -9x^1 -6x^0
+
+  Prova #2
+
+    def D 5x^4 -9x^2 +1x^1
+    def E -2x^2 +3x^0
+    prod F D E
+    veure F
+
+      Sortida: -10x^6 +33x^4 -2x^3 -27x^2 +3x^1
+
+  Prova #3
+
+    def G 2x^4 -1x^3 -3x^2 +5x^1 -8x^0
+    def H -5x^4
+    prod I G H
+    veure I
+
+      Sortida: -10x^8 +5x^7 +15x^6 -25x^5 +40x^4
+
+- DIVISÓ de POLINOMIS:
+
+  Prova #1
+
+    def A 1x^4 -2x^3 -11x^2 +30x^1 -20x^0
+    def B 1x^2 +3x^1 -2x^0
+    divi C A B
+    veure C
+
+      Sortida: +1x^2 -5x^1 +6x^0
+
+  Prova #2
+
+    def D 1x^5 +7x^3 -5x^1 +1x^0
+    def E 1x^3 +2x^1
+    divi F D E
+    veure F
+
+      Sortida: +1x^2 +5x^0
+
+  Prova #3
+
+    def G 1x^3 -5x^2 +1x^1
+    def H 1x^2 -1x^0
+    divi I G H
+    veure I
+
+      Sortida: +1x^1 -5x^0
+
+- MCD de POLINOMIS:
+
+  Prova #1
+
+    def A 1x^4 -3x^2 +2x^1
+    def B 1x^3 +3x^2 -4x^0
+    mcd C A B
+    veure C
+
+      Sortida: +1x^2 +1x^1 -2x^0
+
+  Prova #2
+
+    def D 1x^5 -1x^3 -1x^2 +1x^0
+    def E 1x^4 -2x^3 -1x^2 +2x^1
+    mcd F D E
+    veure F
+
+      Sortida: +1x^2 -1x^0
+
+  Prova #3
+
+    def G 1x^2
+    def H 1x^2 -1x^1
+    mcd I G H
+    veure I
+
+      Sortida: +1x^1
+
+* Totes aquestes proves han estat comprovades i revisades correctament.
